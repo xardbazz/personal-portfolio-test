@@ -89,8 +89,38 @@ function Experience() {
             M-Service | Russia, Dubna | Sales – Engineering/ Technical/IT
             </h3>
             <p>
-            Hardware aspects, repairs and diagnostics of computers and mobile phones, 
+            Hardware aspects: repairs and diagnostics of computers and mobile phones, 
             Software aspects: A wide knowledge on software based applications that are used in computer repairs and software repairs
+            </p>
+          </VerticalTimelineElement>
+
+          <VerticalTimelineElement 
+          className = "vertical-timeline-element--education" 
+          date = "Nov 2021 - April 2023 " 
+          iconStyle = {{background: "#e9d35b", color: "#fff"}}
+          icon = {<WorkIcon/>}
+          >
+            <h3 className="vertical-timeline-element-title">
+            M-Service | Russia, Dubna | Delivery
+            </h3>
+            <p>
+            Delivery of Tech for computer and mobile repairs from designated locations
+            Providing utmost care with handling fragile items 
+            </p>
+          </VerticalTimelineElement>
+
+          <VerticalTimelineElement 
+          className = "vertical-timeline-element--education" 
+          date = "Nov 2021 - April 2023 " 
+          iconStyle = {{background: "#e9d35b", color: "#fff"}}
+          icon = {<WorkIcon/>}
+          >
+            <h3 className="vertical-timeline-element-title">
+            Signature Living | Real Estate Agent
+            </h3>
+            <p>
+            Guest welcoming and getting them settled in our apartments for rent 
+            Listing and solving guest complaints of any sort with utmost care
             </p>
           </VerticalTimelineElement>
       </VerticalTimeline>
