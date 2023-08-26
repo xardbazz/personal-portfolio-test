@@ -101,7 +101,7 @@ function Experience() {
           icon = {<WorkIcon/>}
           >
             <h3 className="vertical-timeline-element-title">
-            M-Service | Russia, Dubna | Delivery
+            M-Service | Russia, Dubna | Delivery Person
             </h3>
             <p>
             Delivery of Tech for computer and mobile repairs from designated locations
@@ -111,7 +111,7 @@ function Experience() {
 
           <VerticalTimelineElement 
           className = "vertical-timeline-element--education" 
-          date = "April 2021 - July 2023 " 
+          date = "April 2023 - July 2023 " 
           iconStyle = {{background: "#e9d35b", color: "#fff"}}
           icon = {<WorkIcon/>}
           >
@@ -126,7 +126,7 @@ function Experience() {
 
           <VerticalTimelineElement 
           className = "vertical-timeline-element--education" 
-          date = "July 2021 - Present" 
+          date = "July 2023 - Present" 
           iconStyle = {{background: "#e9d35b", color: "#fff"}}
           icon = {<WorkIcon/>}
           >
