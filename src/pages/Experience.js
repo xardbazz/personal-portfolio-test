@@ -111,7 +111,7 @@ function Experience() {
 
           <VerticalTimelineElement 
           className = "vertical-timeline-element--education" 
-          date = "Nov 2021 - April 2023 " 
+          date = "April 2021 - July 2023 " 
           iconStyle = {{background: "#e9d35b", color: "#fff"}}
           icon = {<WorkIcon/>}
           >
@@ -121,6 +121,22 @@ function Experience() {
             <p>
             Guest welcoming and getting them settled in our apartments for rent 
             Listing and solving guest complaints of any sort with utmost care
+            </p>
+          </VerticalTimelineElement>
+
+          <VerticalTimelineElement 
+          className = "vertical-timeline-element--education" 
+          date = "July 2021 - Present" 
+          iconStyle = {{background: "#e9d35b", color: "#fff"}}
+          icon = {<WorkIcon/>}
+          >
+            <h3 className="vertical-timeline-element-title">
+            LIKNOT | Sales Marketing Manager
+            </h3>
+            <p>
+            Spearheading company awareness on social media platforms. 
+            Crafting engaging blogs and articles for dissemination across diverse news websites. 
+            Micro-managing revenue generated through sales.
             </p>
           </VerticalTimelineElement>
       </VerticalTimeline>
